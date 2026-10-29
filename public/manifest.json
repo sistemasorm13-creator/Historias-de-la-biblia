@@ -1,0 +1,21 @@
+{
+  "name": "Historias Bíblicas",
+  "short_name": "HistoriasBíblicas",
+  "description": "Biblioteca digital interactiva y cinematográfica de historias bíblicas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#120D09",
+  "theme_color": "#120D09",
+  "icons": [
+    {
+      "src": "/images/david-goliath.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/images/david-goliath.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
